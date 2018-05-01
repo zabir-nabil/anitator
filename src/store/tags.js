@@ -1,58 +1,58 @@
 export const tagSet = [
   {
-    'ud': 'NOUN',
+    'ud': 'NAME',
     'tag': 'N',
     'shortKey': 'n',
-    'display': 'Noun',
-    'class': 'noun'
+    'display': 'Name',
+    'class': 'name'
   },
   {
-    'ud': 'PROPN',
-    'tag': 'Q',
-    'shortKey': 'q',
-    'display': 'Proper Noun',
-    'class': 'propn'
+    'ud': 'LOCATION',
+    'tag': 'L',
+    'shortKey': 'l',
+    'display': 'Location',
+    'class': 'location'
   },
   {
-    'ud': 'PRON',
+    'ud': 'PERSON',
     'tag': 'P',
     'shortKey': 'p',
-    'display': 'Pronoun',
-    'class': 'pron'
+    'display': 'Person',
+    'class': 'person'
   },
   {
-    'ud': 'ADJ',
-    'tag': 'J',
-    'shortKey': 'j',
-    'display': 'Adjective',
-    'class': 'jj'
+    'ud': 'ORGANIZATION',
+    'tag': 'O',
+    'shortKey': 'o',
+    'display': 'Organization',
+    'class': 'organization'
   },
   {
-    'ud': 'VERB',
-    'tag': 'V',
-    'shortKey': 'v',
-    'display': 'Verb',
-    'class': 'verb'
+    'ud': 'MONEY',
+    'tag': 'M',
+    'shortKey': 'm',
+    'display': 'Money',
+    'class': 'money'
   },
   {
-    'ud': 'ADP',
-    'tag': 'E',
-    'shortKey': 'e',
-    'display': 'Adposition',
-    'class': 'adp'
+    'ud': 'PERCENT',
+    'tag': 'P',
+    'shortKey': '5',
+    'display': 'Percent',
+    'class': 'percent'
   },
   {
-    'ud': 'CONJ',
-    'tag': 'C',
-    'shortKey': 'c',
-    'display': 'Conjunction',
-    'class': 'conj'
+    'ud': 'DATE',
+    'tag': 'D',
+    'shortKey': 'd',
+    'display': 'Date',
+    'class': 'date'
   },
   {
-    'ud': 'NUM',
-    'tag': '0',
-    'shortKey': '0',
-    'display': 'Numeral',
-    'class': 'num'
+    'ud': 'TIME',
+    'tag': 'T',
+    'shortKey': 't',
+    'display': 'Time',
+    'class': 'time'
   },
 ];
